@@ -23,3 +23,5 @@ describe('SuccessfulDialogComponent', () => {
     expect(component).toBeTruthy();
   });
 });
+
+

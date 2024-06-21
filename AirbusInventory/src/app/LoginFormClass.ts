@@ -7,3 +7,4 @@ export class LoginFormClass{
         this.password="";
     }
 }
+

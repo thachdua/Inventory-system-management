@@ -29,3 +29,5 @@ describe('AppComponent', () => {
     expect(compiled.querySelector('.content span')?.textContent).toContain('AirbusInventory app is running!');
   });
 });
+
+

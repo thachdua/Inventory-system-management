@@ -72,3 +72,5 @@ export class GetAllProductsComponent implements OnInit {
   }
 
 }
+
+
